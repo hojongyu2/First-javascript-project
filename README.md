@@ -1,46 +1,20 @@
-# Final Project
+# Final Project - Falling words typing game
 
-In this project, you'll build a web application that does anything you want! 
+In my project, I created a game that practice your typing skills that has three difficulty level: Easy, medium and extreme.
 
-It must meet the project requirements below, but beyond that, feel free to use your creativity to decide on what your app will do.
+# how to play
 
-## Requirements
+Choose a difficulty level and click on the start game button to start.
 
-* **Your app has at least three distinct "features"**
-  * If you are building a travel planning application, one feature could be allowing users to create a new trip
-* Your project has at least ten commits in git
-* Your app is mobile responsive
-* Your project contains a `README.md` file that explains what your project is and how to use it
-* Your project is hosted on GitHub pages
-* Your code is clean
-  * Proper indentation
-  * No unnecessary repetition
-  * Variables as camelCase
+Once you click to start, words will start to appear on the browser and they will start to fall down.
 
-## Project ideas
+Your task is to type words appearing on the screen before they have fallen down!
 
-* Travel planner
-* Budget manager
-* Resume builder
-* Shift scheduling app
-* Chat bot
-* Music making app
-* Games
-  * PacMan
-  * Chess
-* Do something with an external API: https://github.com/public-apis/public-apis
-  * Slack / discord bot
-  * Recreate Reddit
-  * Pokedex
+If your input is same as the word on the screen, it will disappear and you will get your score!
 
-And so many more possibilities!
+Try to type as much as you can within 60 seconds. 
 
-## Recommendations
+At the end of the game, you will be able to see your Words typing speed!
 
-* Start out by creating your project's foundation in HTML.
-* Frequently make commmits in git to save your progress.
-* Build one piece of Javascript functionality at a time, testing each change you make with `console.log`. 
-* Keep your code meticulously organized as you go. 
-* Use proper indentation, whitespace, and comments. 
-* Try to write a function for each separate piece of functionality that exists in your code. This will make your code "modular" and easier to build off of.
-* If you find yourself repeating code, think about how you could use either a loop or a new function to eliminate the repitition.
+
+

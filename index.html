@@ -8,33 +8,32 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div id='base'>
-        <h1>WORD TYPING GAME
-            <div id="score-board">
-                <div id="time">time:</div>
-                <div id="score">speed:</div>
-                <div id="speed">score:</div>
-            </div>
-        
-        </h1>
-        <div>
-            <label id='word-1'>word</label>
+    <div id="score-board">
+        <div>time :
+            <div id="time"></div>
         </div>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <input id="startButton" type="button" value="Start"></button>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <div id="submit-area">
+        <div>score :
+            <div id="score"></div>
+        </div>
+    </div>
+    <div id='area'>
+        <div id="wordArea"></div>
+        <div id="answer">
             <input id='input' type='text' placeholder="start here">
-            <button id='button'>button</button>
-            <div id="difficulty"> difficulty
-                <input id="easy" type="radio" checked="true">easy
-                <input id="medium" type="radio">medium
-                <input id="extreme" type="radio"> extreme
+            <input id="startButton" type="button" value="WORD TYPING GAME: CLICK TO START">
+            
+            <div id="difficulty"> 
+                <input id="easy" type="radio" name="level"checked>easy
+                <input id="medium" type="radio"name="level">medium
+                <input id="extreme" type="radio"name="level"> extreme                
             </div>
+           
             
         </div>
     </div>
 
+        
+    
     
     <script src='main.js'></script>
 </body>
