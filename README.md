@@ -1,6 +1,6 @@
-# Final Project - Falling words typing game
+# First Javascript Project - Falling words typing game
 
-In my project, I created a game that practice your typing skills that has three difficulty level: Easy, medium and extreme.
+In this project, I created a game that practice your typing skills that has three difficulty level: Easy, medium and extreme.
 
 # how to play
 
